@@ -20,15 +20,15 @@ Los métodos disponibles se describen a continuación:
 
 ## Métodos:
 
-> - [wln(Object data)](#wlnobject-data)
-> - [w(Object data)](#wobject-data)
-> - [w(String str, Object ... data)](#wstring-str-object-data)
-> - [w(String[] data)](#wstring-data)
-> - [w(int[] data)](#wint-data)
-> - [w(float[] data)](#wfloat-data)
-> - [w(double[] data)](#wdouble-data)
-> - [w(char[] data)](#wchar-data)
-> - [w(ArrayList array)](#warraylist-array)
+> - [wln(Object data)](#wlnobject-data-métodos)
+> - [w(Object data)](#wobject-data-métodos)
+> - [w(String str, Object ... data)](#wstring-str-object-data-métodos)
+> - [w(String[] data)](#wstring-data-métodos)
+> - [w(int[] data)](#wint-data-métodos)
+> - [w(float[] data)](#wfloat-data-métodos)
+> - [w(double[] data)](#wdouble-data-métodos)
+> - [w(char[] data)](#wchar-data-métodos)
+> - [w(ArrayList array)](#warraylist-array-métodos)
 
 ## wln(Object data) [métodos](#métodos)
 
